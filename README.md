@@ -39,3 +39,11 @@ id      | Service ID
 guid    | Service GUID
 keys    | List of keys
 key_map | Map of keys 
+
+## Example Usage
+
+A template showing example usage of this module can be found [here](./tests/example_module).
+
+## Acceptance Tests
+
+This module uses [tfxjs]() to run example tests. Tests can be found in the [tests](./tests) directory.
